@@ -18,3 +18,14 @@ footer.footer, .footer {
   font-size: 1.1rem;
   line-height: 1.6;
 }
+
+.home-content {
+    text-align: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 100% !important;
+    max-width: 700px !important;
+}
+.home-content p {
+    text-align: center !important;
+}
