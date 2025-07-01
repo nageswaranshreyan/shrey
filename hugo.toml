@@ -41,7 +41,7 @@ theme = "gokarna"
   # Choose the color shown when hyperlinks are hovered over
   accentColor = "#FF4D4D"
 
-  customCSS = ["css/custom.css"]
+  customCSS = ["custom.css"]
 
   # Resource URL for the site avatar (home page and header)
   avatarURL = "/images/realavatar.png"
@@ -60,7 +60,7 @@ theme = "gokarna"
   dateFormat = "January 2, 2006"
   
   # Home page meta description
-  description = "<br>I am an Engineer, Data Scientist, and Trainer driven to build in industries I care about - especially those that empower others to reach their full potential. Currently, that is through building <a href='https://agni.fit' target='_blank' rel='noopener'>agni.fit</a>.</br><br> If you would like to chat, feel free to <a href='mailto:shreyan.nageswaran@outlook.com'>contact me</a>!</br>"
+  description = ""
 
   # Footer text (i.e. author/project name)
   footer = " "
