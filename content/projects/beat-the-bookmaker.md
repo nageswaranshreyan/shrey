@@ -20,3 +20,6 @@ type: "post"
 
 
 - Achieved a mark of 79, placing in the distinction category.
+
+
+- Read the complete paper [here](/Shreyan%20Nageswaran%20-%20Beat%20The%20Bookmaker.pdf)!
