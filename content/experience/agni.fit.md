@@ -10,7 +10,7 @@ type: "post"
 ---
 
 ### Description:
-- Currently building a startup within the AI and Fitness sector designed to help people stay more consistent on their fitness journeys. 
+- Currently building an AI-powered fitness startup designed to help people stay consistent, active, and healthy.  
 
 
 - Our mission is to harness the power of Artificial Intelligence to pioneer a groundbreaking way for people to be able to visualize and attain their dream physiques. 
