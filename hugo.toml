@@ -44,7 +44,7 @@ theme = "gokarna"
   customCSS = ["custom.css"]
 
   # Resource URL for the site avatar (home page and header)
-  avatarURL = "/images/realavatar.png"
+  avatarURL = "/images/finalavatar.png"
 
   # Describe the avatar for screen readers
   avatarAltText = "avatar"
