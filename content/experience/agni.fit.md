@@ -16,4 +16,7 @@ type: "post"
 - Our mission is to harness the power of Artificial Intelligence to pioneer a groundbreaking way for people to be able to visualize and attain their dream physiques. 
 
 
-- Please take a look at our page at [agni.fit](https://agni.fit). 
+- Learn more about our product [here](https://calm-point-492768.framer.app/)!
+
+
+- Feel free to take a look at our page at [agni.fit](https://agni.fit). 
