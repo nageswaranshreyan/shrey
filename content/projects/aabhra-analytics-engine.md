@@ -9,7 +9,7 @@ title: "Aabhra Analytics Engine"
 type: "post"
 ---
 ### Description:
-- Built a Spring Boot project with an Antlr integration in order to process a given grammar and convert it to an execution graph.
+- Built a Spring Boot project with Antlr integration in order to support a functional grammar and convert expressions into execution graphs. 
 
 
 - Leveraged JPA to retrieve data needed when processing the execution graph. 

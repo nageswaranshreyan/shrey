@@ -13,7 +13,7 @@
       <link>//localhost:1313/projects/aabhra-analytics-engine/</link>
       <pubDate>Thu, 12 Jun 2025 14:24:52 +0100</pubDate>
       <guid>//localhost:1313/projects/aabhra-analytics-engine/</guid>
-      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Built a Spring Boot project with an Antlr integration in order to process a given grammar and convert it to an execution graph.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Leveraged JPA to retrieve data needed when processing the execution graph.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Built a Spring Boot project with Antlr integration in order to support a functional grammar and convert expressions into execution graphs.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Leveraged JPA to retrieve data needed when processing the execution graph.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Aabhra Inc</title>
@@ -37,6 +37,13 @@
       <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Worked as part of a global asset management firm where I analyzed client&amp;rsquo;s financial assets, information, and goals in order to prepare recommendation proposals.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Collected relevant information from pension providers and various investment platforms in order to assess a client&amp;rsquo;s portfolio.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Coordinated with sales and operations teams in order to complete cases in a timely manner.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Royal Holloway, University of London</title>
+      <link>//localhost:1313/education/rhul/</link>
+      <pubDate>Thu, 29 Aug 2024 14:07:42 +0100</pubDate>
+      <guid>//localhost:1313/education/rhul/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Spent a year doing a Master&amp;rsquo;s Degree in Data Science and Analytics.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Specialized in technical subjects including Data Analysis, Databases, and Large-Scale Data Storage and Processing, developing a rigorous analytical skill set rooted in data-driven problem solving.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Expanded my academic scope by diving into finance-focused courses like Investment and Portfolio Management and Fixed Income Securities and Derivatives, gaining a solid foundation in financial theory and markets.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Graduated with Distinction.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Beat The Bookmaker</title>
       <link>//localhost:1313/projects/beat-the-bookmaker/</link>
       <pubDate>Wed, 28 Aug 2024 14:07:42 +0100</pubDate>
@@ -44,18 +51,18 @@
       <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Developed a comprehensive research project, which involved the use of machine learning models such as a Decision Tree Regressor and a Poisson Distribution, to predict National Football League scores.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The project was further extended to see if these models can place more accurate predictions by creating model-derived win probabilities and comparing them against those from leading bookmakers.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Achieved a mark of 79, placing in the distinction category.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Read the complete paper &lt;a href=&#34;//localhost:1313/Shreyan%20Nageswaran%20-%20Beat%20The%20Bookmaker.pdf&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Royal Holloway, University of London</title>
-      <link>//localhost:1313/education/rhul/</link>
-      <pubDate>Mon, 18 Sep 2023 14:07:42 +0100</pubDate>
-      <guid>//localhost:1313/education/rhul/</guid>
-      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Spent a year doing a Master&amp;rsquo;s Degree in Data Science and Analytics.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Specialized in technical subjects including Data Analysis, Databases, and Large-Scale Data Storage and Processing, developing a rigorous analytical skill set rooted in data-driven problem solving.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Expanded my academic scope by diving into finance-focused courses like Investment and Portfolio Management and Fixed Income Securities and Derivatives, gaining a solid foundation in financial theory and markets.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Graduated with Distinction.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Fitness First</title>
       <link>//localhost:1313/experience/ff/</link>
       <pubDate>Fri, 16 Jun 2023 14:07:42 +0100</pubDate>
       <guid>//localhost:1313/experience/ff/</guid>
       <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Worked as a Sales Associate for one of the most popular gyms in London in the summer of 2023.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I enjoyed being able to communicate with prospective members and discuss different options, such as memberships, classes, and trainers, that would suit them on their fitness journey.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Conducted tours of the club and also spent significant time working on outbound sales.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>King&#39;s College London</title>
+      <link>//localhost:1313/education/kcl/</link>
+      <pubDate>Fri, 02 Jun 2023 14:07:42 +0100</pubDate>
+      <guid>//localhost:1313/education/kcl/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I spent three years studying at King&amp;rsquo;s College London, where I earned a bachelor&amp;rsquo;s degree in Computer Science.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Expanded my technical skill set by learning diverse concepts such as Cryptography, Computational Models, Machine Learning and more!&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Stamina</title>
@@ -77,13 +84,6 @@
       <pubDate>Sun, 27 Mar 2022 14:07:42 +0100</pubDate>
       <guid>//localhost:1313/experience/issa/</guid>
       <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Earned my Personal Training certification from the International Sports Sciences Association (ISSA).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Coached an athlete who was selected to compete in a university-level powerlifting event held at Gymshark Lifting Club.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Studied subjects such as Anatomy, Physiology, Kinesiology, Biomechanics, and Nutrition.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>King&#39;s College London</title>
-      <link>//localhost:1313/education/kcl/</link>
-      <pubDate>Mon, 28 Sep 2020 14:07:42 +0100</pubDate>
-      <guid>//localhost:1313/education/kcl/</guid>
-      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I spent three years studying at King&amp;rsquo;s College London, where I earned a bachelor&amp;rsquo;s degree in Computer Science.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Expanded my technical skill set by learning diverse concepts such as Cryptography, Computational Models, Machine Learning and more!&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,7 +13,7 @@
       <link>//localhost:1313/projects/aabhra-analytics-engine/</link>
       <pubDate>Thu, 12 Jun 2025 14:24:52 +0100</pubDate>
       <guid>//localhost:1313/projects/aabhra-analytics-engine/</guid>
-      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Built a Spring Boot project with an Antlr integration in order to process a given grammar and convert it to an execution graph.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Leveraged JPA to retrieve data needed when processing the execution graph.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Built a Spring Boot project with Antlr integration in order to support a functional grammar and convert expressions into execution graphs.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Leveraged JPA to retrieve data needed when processing the execution graph.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Beat The Bookmaker</title>
