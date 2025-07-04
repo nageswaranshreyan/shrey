@@ -19,7 +19,7 @@ type: "post"
 - The project was further extended to see if these models can place more accurate predictions by creating model-derived win probabilities and comparing them against those from leading bookmakers.
 
 
-- Achieved a mark of 79, placing in the distinction category.
+- Achieved a distinction-level mark. 
 
 
 - Read the complete paper [here](/Shreyan%20Nageswaran%20-%20Beat%20The%20Bookmaker.pdf)!
