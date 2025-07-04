@@ -19,4 +19,4 @@ type: "post"
 - Learn more about our product [here](https://calm-point-492768.framer.app/)!
 
 
-- Feel free to take a look at our page at [agni.fit](https://agni.fit). 
+- Feel free to take a look at our page, and sign up for our waitlist, at [agni.fit](https://agni.fit). 
